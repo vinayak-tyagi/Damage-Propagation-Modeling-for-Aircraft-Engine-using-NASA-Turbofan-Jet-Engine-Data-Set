@@ -4,6 +4,8 @@
 
 [Kaggle link](https://www.kaggle.com/code/vinayak123tyagi/damage-propagation-modeling-for-aircraft-engine)
 
+[NASA Turbofan Jet Engine Data Set](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)
+
 ## About Dataset
 
 ### ***Description***
